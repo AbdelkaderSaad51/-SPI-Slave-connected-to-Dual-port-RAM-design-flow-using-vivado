@@ -1,4 +1,4 @@
-# -SPI-Slave-connected-to-Dual-port-RAM-design-flow-using-vivado
+#SPI-Slave-connected-to-Dual-port-RAM-design-flow-using-vivado
 
 Project Overview
 The main goal of this project is to design and implement an SPI Slave core that can receive data from a master device and store it into memory (mem.dat). The design was synthesized, implemented, and simulated to verify correct functionality.
